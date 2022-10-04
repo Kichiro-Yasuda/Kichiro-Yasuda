@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Kichiro-Yasuda
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning web development
